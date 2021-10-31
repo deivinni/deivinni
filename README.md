@@ -1,16 +1,15 @@
-# github-profile-summary-cards-example
+<h1 align="center">Deivinni Mayer da Silva</h1>
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+Tenho 18 anos, programo mais como um hobby e pretendo estudar e trabalhar neste ramo!
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+#### Redes Sociais:
+> **Discord**: deivinni#7799</br>
+> **Twitter**: <a href="https://twitter.com/deivinni_">@deivinni_</a></br>
+> **Email**: <a href="mailto:deivinnimds3656@gmail.com">deivinnimds3656@gmail.com</a></br>
 
-```To create your profile README you need to name the repo as your username```
-
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
-
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<a href="https://github.com/deivinni">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deivinni&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=discord_old_blurple&locale=pt-br" />
+</a>
+<a href="https://github.com/deivinni">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivinni&locale=pt-br&hide=batchfile&theme=discord_old_blurple" />
+</a>
