@@ -4,15 +4,13 @@ Tenho 18 anos, programo mais como um hobby e pretendo estudar e trabalhar neste 
 
 ---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3168c6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Deno-ffffff?&style=for-the-badge&logo=deno&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.JS-026e00?&style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GIT-f1502f?&style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQLite-323330?style=for-the-badge&logo=sqlite" />
-  <img src="https://img.shields.io/badge/-MongoDB-3fa037?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+![](https://img.shields.io/badge/-JavaScript-fff569?style=for-the-badge&logo=javascript&logoColor=242424)
+![](https://img.shields.io/badge/-TypeScript-5287ff?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/-Deno-ffffff?&style=for-the-badge&logo=deno&logoColor=242424)
+![](https://img.shields.io/badge/-Node.JS-63ff6b?&style=for-the-badge&logo=node.js&logoColor=242424)
+![](https://img.shields.io/badge/-GIT-ff5454?&style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/-SQLite-323330?style=for-the-badge&logo=sqlite)
+![](https://img.shields.io/badge/-MongoDB-63ff6b?style=for-the-badge&logo=mongodb&logoColor=242424)
 
 #### Redes Sociais:
 > **Discord**: deivinni#7799</br>
