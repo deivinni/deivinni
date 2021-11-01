@@ -1,4 +1,4 @@
-<img align="right" src="getImage.js">
+<img align="right" src="https://github.com/deivinni.png?size=115">
 
 <h1>Deivinni Mayer da Silva</h1>
 
