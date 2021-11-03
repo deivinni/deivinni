@@ -1,6 +1,7 @@
-<h2>Deivinni Mayer da Silva</h2>
+## Deivinni Mayer da Silva
 
-Tenho 18 anos, programo mais como um hobby e pretendo estudar e trabalhar neste ramo!
+Tenho 18 anos, programo mais como um hobby e pretendo trabalhar neste ramo. <br />
+Caso queria falar comigo, estou sempre online no <a href="https://dsc.bio/deivinni">Discord</a>!
 
 ---
 
@@ -11,11 +12,6 @@ Tenho 18 anos, programo mais como um hobby e pretendo estudar e trabalhar neste 
 ![](https://img.shields.io/badge/-GIT-ff5454?&style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/-SQLite-323330?style=for-the-badge&logo=sqlite)
 ![](https://img.shields.io/badge/-MongoDB-63ff6b?style=for-the-badge&logo=mongodb&logoColor=242424)
-
-#### Redes Sociais:
-> **Discord**: deivinni#7799</br>
-> **Twitter**: <a href="https://twitter.com/deivinni_">@deivinni_</a></br>
-> **E-mail**: <a href="mailto:deivinnimds3656@gmail.com">deivinnimds3656@gmail.com</a></br>
 
 <a href="https://github.com/deivinni">
   <img align="center" src="profile-summary-card-output/github_dark/0-profile-details.svg" />
