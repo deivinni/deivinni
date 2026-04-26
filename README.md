@@ -2,7 +2,7 @@
 
   ## Deivinni Mayer da Silva
   
-  Tenho 20 anos, programo mais como um hobby e pretendo trabalhar neste ramo. <br />
+  Tenho 22 anos, trabalho como desenvolvedor da Microsoft Power Platform e às vezes mexo com uns projetos pessoais! <br />
   
   ---
 
